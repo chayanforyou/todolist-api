@@ -286,7 +286,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"description\": \"reading book\"\n}"
+							"raw": "{\n\t\"title\": \"my title\",\n\t\"description\": \"reading book\",\n\t\"dueDate\": \"2024-01-21\"\n}"
 						},
 						"url": {
 							"raw": "{{url}}/task",
